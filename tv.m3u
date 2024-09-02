@@ -1,0 +1,276 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| LA UNE FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=35808&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| LA UNE HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=52464&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| La Une HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=141670&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| LA UNE SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61522&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| Tipik FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=35680&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| Tipik HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61523&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| Tipik HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=136560&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| LA TROIS FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=193054&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| LA TROIS HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=52465&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| LA TROIS HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=193055&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| LA TROIS SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=62484&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| RTL TVI FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=3162&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| RTL TVI HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61524&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| RTL TVI HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=136522&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| RTL TVI SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=62485&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| CLUB RTL FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=378266&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| CLUB RTL HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61525&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| CLUB RTL HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=145271&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| CLUB RTL SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=78449&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| PLUG RTL FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=78450&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| PLUG RTL HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=55648&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| PLUG RTL HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=145270&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| PLUG  RTL SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61526&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| AB3 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=55628&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| AB3 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=55629&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| AB3 SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=59004&extension=ts
+#EXTINF:-1 group-title="BE| CINEMA",BETV| BE 1 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=136559&extension=ts
+#EXTINF:-1 group-title="BE| CINEMA",BETV| BE 1 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=52470&extension=ts
+#EXTINF:-1 group-title="BE| CINEMA",BETV| BE 1 HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=145274&extension=ts
+#EXTINF:-1 group-title="BE| CINEMA",BETV| BE 1 +1 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=193085&extension=ts
+#EXTINF:-1 group-title="BE| CINEMA",BETV| BE 1 +1 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=193086&extension=ts
+#EXTINF:-1 group-title="BE| CINEMA",BETV| BE 1 +1 HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=193087&extension=ts
+#EXTINF:-1 group-title="BE| CINEMA",BETV| BE CINE FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=136554&extension=ts
+#EXTINF:-1 group-title="BE| CINEMA",BETV| BE CINE HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=52471&extension=ts
+#EXTINF:-1 group-title="BE| CINEMA",BETV| BE CINE HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=145273&extension=ts
+#EXTINF:-1 group-title="BE| CINEMA",BETV| BE SERIE FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=136539&extension=ts
+#EXTINF:-1 group-title="BE| CINEMA",BETV| BE SERIES HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=52472&extension=ts
+#EXTINF:-1 group-title="BE| CINEMA",BETV| BE SERIES HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=145272&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| ABXPLORE FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=2893&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| ABXPLORE HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=78456&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| ABXPLORE SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61531&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| DOBBIT TV FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=70253&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| DOBBIT TV HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=125848&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| LN24 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61537&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| TELE MB FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=52466&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| Antenne Centre
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=287046&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| TELESAMBRE HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61540&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| BOUKE (EX : CANAL C )
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=382171&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| RTC LIEGE FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=176250&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| VEDIA TV FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=222054&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| NO TELE
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=52467&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| MATELE
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=183277&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| BX1 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61527&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| TV LUX FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=165879&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| TV COM FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=366865&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| CONTACT FEEL GOOD TV HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61541&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| BEL RTL HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61542&extension=ts
+#EXTINF:-1 group-title="BE| BELGIQUE",BE| NRJ HITS
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=222051&extension=ts
+#EXTINF:-1 group-title="FR| MUSIQUE",BE| MIX MY DAY TV FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=335478&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN PRO LEAGUES 1 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=992&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN PRO LEAGUES 1 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=229043&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN PRO League 1 SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=390355&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN PRO LEAGUES 1 HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=151915&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN PRO LEAGUES 2 FHD  (actif pour evenements)
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=993&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN)  ELEVEN PRO LEAGUES 2 HD  (actif pour evenements)
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=390357&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN PRO LEAGUES 2 HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=151916&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN PRO LEAGUES 3 FHD (actif pour evenements)
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=994&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN PRO LEAGUES 3 SD (actif pour evenements)
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=390356&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN SPORT 1 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=78969&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN SPORT 1 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=299927&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN SPORT 1 SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=675973&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN SPORT 2 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=78970&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN SPORT 2 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=299929&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN SPORT 2 SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=675974&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN SPORT 3 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=97373&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN SPORT 3 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=675975&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| (DAZN) ELEVEN SPORT 3 SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=675976&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| VOO SPORT WORLD 1 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=42370&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| VOO SPORT WORLD 1 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=390414&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| VOO SPORT WORLD 1 SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=390413&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| VOO SPORT WORLD 1 HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=136936&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| VOO SPORT WORLD 2 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=59833&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| VOO SPORT WORLD 2 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=390412&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| VOO SPORT WORLD 2 SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=390411&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| VOO SPORT WORLD 2 HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=136937&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| VOO SPORT WORLD 3 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=59834&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| VOO SPORT WORLD 3 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=390410&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| VOO SPORT WORLD 3 SD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=390409&extension=ts
+#EXTINF:-1 group-title="BE| SPORTS",BE| VOO SPORT WORLD 3 HEVC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=179666&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",|BE-NL| generalistische |BE-NL|
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308085&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  VTM HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61534&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| VTM 2 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=66761&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| VTM 3 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61530&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| VTM 4
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=157483&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| Play 4 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61533&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| Play5
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=623658&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| Play6
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=623665&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| Play7
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=623659&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| CANVAS
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=157484&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| EEN HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61529&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| KETNET HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=61535&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  100% NL TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308088&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  192 TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308089&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  24 KITCHEN HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308090&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  L1 LIMBURG TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308091&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  RTL 4 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308092&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  RTL 5 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308093&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  RTL 7 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308094&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  RTL 8 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308095&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  RTL CRIME HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308096&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  RTL LOUNGE HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308097&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  RTL Z HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308098&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| FOX
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=623666&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| VTM GOLD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=623657&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| Comedy Central
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=623662&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| MTV VL
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=623661&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",|BE-NL| KINDEREN |BE-NL|
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308099&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| Nick Jr.
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=623653&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  BOOMERANG
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308101&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  CARTOON NETWORK
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308102&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  RTL TELEKIDS HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308103&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",|BE-NL| CULTUUR |BE-NL|
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308110&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| Discovery World HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=623664&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| Nat Geo HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=623663&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  DISCOVERY HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308111&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  DISCOVERY ID HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308112&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL|  DISCOVERY SCIENCE HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308113&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",NL| HORSE TV FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=663478&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",|BE-NL| SPORT |BE-NL|
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=308115&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| PLAY SPORTS 1 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=228519&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| PLAY SPORTS 1 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=228556&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| PLAY SPORTS 2 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=228520&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| PLAY SPORTS 2 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=228557&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| PLAY SPORTS 3 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=228521&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| PLAY SPORTS 3 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=228558&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| ELEVEN SPORT 1 (NL)
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=235058&extension=ts
+#EXTINF:-1 group-title="BE| BELGIUM NL",BE-NL| Eleven Pro League 1 NL HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B0:BA:C7&stream=623648&extension=ts
